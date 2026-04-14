@@ -11,6 +11,15 @@ x-algorithm 是由 xAI 团队开发的开源项目，核心是为 X（前 Twitte
 
 该项目于 2026 年初由 xAI 工程团队正式开源，迅速在 GitHub 上获得数万星标和广泛关注。我们在此基础上，对其整体系统架构、数据流设计、关键模型以及核心算法机制进行了系统性解析，旨在从工程与理论两个层面还原工业级推荐系统的实现细节。
 
+## Deep-Live-Cam技术文档.pdf
+
+当前收录内容基于
+👉 [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
+Deep-Live-Cam 的核心功能是利用单张源图像实现实时人脸交换和一键视频 deepfake，支持摄像头、视频流以及直播平台（如 Omegle）的即时面部替换，同时具备多脸处理、嘴部遮罩、面部增强（GFPGAN）和音频/FPS 保留等特性。该项目基于 insightface、inswapper_128 模型和 ONNX Runtime 构建，提供跨平台加速（CUDA、CoreML、DirectML 等），无需额外训练即可本地运行，已积累超过 9 万星标和大量 forks，成为内容创作者、VTuber 和数字艺术家常用的高效工具。
+
+
+
 ## 📌作者说明
 
 - 该项目正在持续拓展中，将会对前沿的优质开源项目进行技术解析，以便于社区广大工作者了解与学习。
