@@ -2,7 +2,7 @@
 
 📄这里存储各类优质开源项目的技术解析文档。
 
-## X For You Feed Algorithm技术文档.pdf
+## x-algorithm技术文档.pdf
 
 当前收录内容基于 X（Twitter）推荐系统开源项目：
 👉 [x-algorithm](https://github.com/xai-org/x-algorithm)
