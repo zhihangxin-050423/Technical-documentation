@@ -5,7 +5,7 @@
 ## X For You Feed Algorithm技术文档.pdf
 
 当前收录内容基于 X（Twitter）推荐系统开源项目：
-👉 https://github.com/xai-org/x-algorithm
+👉 [x-algorithm](https://github.com/xai-org/x-algorithm)
 
 该项目公开了 X 平台 “For You” 信息流的核心推荐算法实现，采用典型的多阶段推荐架构，并结合基于 Transformer 的深度模型进行用户行为预测与内容排序。
 
